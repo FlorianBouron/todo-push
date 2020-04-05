@@ -1,0 +1,17 @@
+{
+  "name": "todoPush",
+  "displayName": "todoPush",
+  "expo": {
+    "name": "todoPush",
+    "slug": "todoPush",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
