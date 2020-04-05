@@ -1,3 +1,5 @@
 # Strapi application
 
-A quick description of your strapi application
+### Credentials
+* Login: `Admin`
+* Password: `p@ssword`
